@@ -23,6 +23,15 @@
 3. Customize and modify the code to suit your preferences.
 4. Run the code in your IDE.
 
+### Option 3: Git Clone
+
+Alternatively, you can clone the project using Git:
+
+```bash
+git clone https://github.com/ananquay15x9/TheyGotChoPassword.git
+cd TheyGotChoPassword
+python TheyGotChoPassword.py
+```
 ## How to Use 📖
 
 1. **Generate Password:**
