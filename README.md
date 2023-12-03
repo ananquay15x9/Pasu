@@ -2,6 +2,11 @@
 
 **TheyGotChoPassword** is a user-friendly Password Generator and Checker with a graphical user interface (GUI). It empowers users to create strong, randomized passwords, assess their strength, and check if a password has been compromised in known data breaches using the Have I Been Pwned (HIBP) API.
 
+## v1.1 Update ☀️
+- **TheyGotChoPassword v1.1:** Enjoy the new GUI.
+
+
+
 ## Features 🚀
 
 - **Password Generation:** Quickly generate secure passwords with a mix of letters, numbers, and special characters.
