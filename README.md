@@ -23,7 +23,7 @@
 
 ### Option 2: Python Code
 
-1. Download the [Python code](https://github.com/ananquay15x9/TheyGotChoPassword/blob/main/TheyGotChoPassword.py) from this repository.
+1. Download the [Python code](https://github.com/ananquay15x9/TheyGotChoPassword/blob/main/TheyGotChoPassword-v1.1.py) from this repository.
 2. Open the code in your preferred IDE.
 3. Customize and modify the code to suit your preferences.
 4. Run the code in your IDE.
