@@ -1,9 +1,9 @@
-# TheyGotChoPassword - Password Generator and Checker 🔐
+# Pasu - Password Generator and Checker 🔐
 
-**TheyGotChoPassword** is a user-friendly Password Generator and Checker with a graphical user interface (GUI). It empowers users to create strong, randomized passwords, assess their strength, and check if a password has been compromised in known data breaches using the Have I Been Pwned (HIBP) API.
+**Pasu** is a user-friendly Password Generator and Checker with a graphical user interface (GUI). It empowers users to create strong, randomized passwords, assess their strength, and check if a password has been compromised in known data breaches using the Have I Been Pwned (HIBP) API.
 
 ## v1.1 Update ☀️
-- **TheyGotChoPassword-v1.1:** Enjoy the new GUI.
+- **Pasu-v1.1:** Enjoy the new GUI.
 
 
 
@@ -18,12 +18,12 @@
 
 ### Option 1: Exe File
 
-1. Download the [exe file](https://github.com/ananquay15x9/TheyGotChoPassword/blob/main/TheyGotChoPassword.exe) from the releases section.
+1. Download the [exe file](https://github.com/ananquay15x9/Pasu/blob/main/Pasu-v1.1.exe) from the releases section.
 2. Run the executable to launch the Password Generator and Checker tool.
 
 ### Option 2: Python Code
 
-1. Download the [Python code](https://github.com/ananquay15x9/TheyGotChoPassword/blob/main/TheyGotChoPassword-v1.1.py) from this repository.
+1. Download the [Python code](https://github.com/ananquay15x9/Pasu/blob/main/Pasu-v1.1.py) from this repository.
 2. Open the code in your preferred IDE.
 3. Customize and modify the code to suit your preferences.
 4. Run the code in your IDE.
@@ -33,9 +33,9 @@
 Alternatively, you can clone the project using Git:
 
 ```bash
-git clone https://github.com/ananquay15x9/TheyGotChoPassword.git
-cd TheyGotChoPassword
-python TheyGotChoPassword.py
+git clone https://github.com/ananquay15x9/Pasu.git
+cd Pasu
+python Pasu-v1.1.py
 ```
 ## How to Use 📖
 
@@ -65,4 +65,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**TheyGotChoPassword** - Your go-to tool for generating secure passwords and checking their strength. Stay secure in the digital world! 🌐
+**Pasu** - Your go-to tool for generating secure passwords and checking their strength. Stay secure in the digital world! 🌐
